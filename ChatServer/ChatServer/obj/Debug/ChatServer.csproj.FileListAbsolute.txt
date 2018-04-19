@@ -1,0 +1,7 @@
+D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
