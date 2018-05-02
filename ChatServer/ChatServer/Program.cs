@@ -33,7 +33,7 @@ namespace ChatServer
                 string message = GetMessage();
                 userName = message;
 
-                message = userName + " вошел в чат";
+                message = userName + " connected to chat.";
                 // посылаем сообщение о входе в чат всем подключенным пользователям
                 server.BroadcastMessage(message, this.Id);
                 Console.WriteLine(message);
@@ -49,7 +49,7 @@ namespace ChatServer
                     }
                     catch
                     {
-                        message = String.Format("{0}: покинул чат", userName);
+                        message = String.Format("User {0} disconnected...", userName);
                         Console.WriteLine(message);
                         server.BroadcastMessage(message, this.Id);
                         break;
@@ -118,7 +118,7 @@ namespace ChatServer
             {
                 tcpListener = new TcpListener(IPAddress.Any, 8888);
                 tcpListener.Start();
-                Console.WriteLine("Сервер запущен. Ожидание подключений...");
+                Console.WriteLine("Server works normaly. Waiting for connections...");
 
                 while (true)
                 {

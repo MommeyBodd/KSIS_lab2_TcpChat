@@ -5,3 +5,10 @@ D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatClient\ChatClient\ChatCli
 D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
 D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.exe
 D:\Учёба\2 курс\Second_semestr\KSIS\laba2\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_lab2_TcpChat\KSIS_lab2_TcpChat\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_lab2_TcpChat\KSIS_lab2_TcpChat\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_lab2_TcpChat\KSIS_lab2_TcpChat\ChatClient\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_lab2_TcpChat\KSIS_lab2_TcpChat\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_lab2_TcpChat\KSIS_lab2_TcpChat\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_lab2_TcpChat\KSIS_lab2_TcpChat\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\Учёба\2_курс\Second_semestr\KSIS\KSIS_lab2_TcpChat\KSIS_lab2_TcpChat\ChatClient\ChatClient\ChatClient\obj\Debug\ChatClient.pdb

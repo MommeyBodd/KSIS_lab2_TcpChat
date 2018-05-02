@@ -15,7 +15,7 @@ namespace ChatClient
 
         static void Main(string[] args)
         {
-            Console.Write("Введите свое имя: ");
+            Console.Write("Please, enter your name: ");
             userName = Console.ReadLine();
             client = new TcpClient();
             try
@@ -30,7 +30,7 @@ namespace ChatClient
                 // запускаем новый поток для получения данных
                 Thread receiveThread = new Thread(new ThreadStart(ReceiveMessage));
                 receiveThread.Start(); //старт потока
-                Console.WriteLine("Добро пожаловать, {0}", userName);
+                Console.WriteLine("Welcome, {0}", userName);
                 SendMessage();
             }
             catch (Exception ex)
@@ -45,8 +45,6 @@ namespace ChatClient
         // отправка сообщений
         static void SendMessage()
         {
-            Console.WriteLine("Введите сообщение: ");
-
             while (true)
             {
                 string message = Console.ReadLine();
@@ -76,7 +74,7 @@ namespace ChatClient
                 }
                 catch
                 {
-                    Console.WriteLine("Подключение прервано!"); //соединение было прервано
+                    Console.WriteLine("Connection was stopped."); //соединение было прервано
                     Console.ReadLine();
                     Disconnect();
                 }
